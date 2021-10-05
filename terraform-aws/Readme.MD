@@ -100,3 +100,5 @@ terraform destroy
 
 
 That's it! you installed Terraform and used it to proision an EC2 instance. 
+
+testing...
